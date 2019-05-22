@@ -1,0 +1,16 @@
+{
+  "name": "openvpn-2fa",
+  "version": "0.0.1",
+  "description": "OpenVPN 2FA client command line launcher",
+  "main": "cli.js",
+  "scripts": {},
+  "bin": {
+    "vpn": "./cli.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "speakeasy": "^2.0.0"
+  }
+}
